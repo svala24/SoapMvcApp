@@ -1,4 +1,23 @@
-﻿Team Nu
+﻿﻿2024-06-06
+
+Team name: Nu
+Team member: Suryarajsinh Vala, Rahul Peter, Harpreet Kaur
+
+1800 UTC
+We discussed what name company name it should be, 
+
+1820 UTC
+We ended choosing "The Soap Boutique". 
+
+1830 UTC
+We created Mvc Application and uploaded on github.
+
+1833 UTC
+All done!
+
+
+
+
 2024-06-12 1820 UTC
 
 1822
@@ -21,6 +40,7 @@ added Index.cshtmp Razor view in view folder
 1855
 updated layout page, "Views/Shared/_Layout.cshtml"
 update navigation bar to include a link to the Soap product page
+https://localhost:7204/Soap
 
 1900
 There were some issues, which later found syntax errors.
@@ -33,3 +53,17 @@ run successfully!!
 First push on git
 
 successful!!!!
+
+
+
+
+2247
+Downloaded some background images from the internet.
+
+2250
+Created images folder in wwwroot>images
+Added background.jpg in the images folder
+
+2251
+Sucessfully run with zero error
+Background image is showing on the website!! :D
